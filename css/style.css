@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;   
+}
+
+body {
+    margin: 20;
+    padding: 0;
+    background-color: rgb(250, 250, 115);
+}
+
+.container {
+    display: flex;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(245, 232, 49);
+    padding: 9px;
+    margin: 7PX;
+    text-align: center;
+    border-radius: 12px;
+}
+
+nav a{
+    font-size: 20px;
+    font-style: pblique;
+    background-color: rgb(204, 157, 5);
+    padding: 5px;
+    margin: 40px;
+    text-decoration: none;
+    }
+
+section {
+    display: flex;
+    justify-content: center;
+}
+
+header{
+    text-align: center;
+}
